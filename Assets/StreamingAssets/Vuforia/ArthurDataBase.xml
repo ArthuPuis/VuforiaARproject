@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ARcard" size="0.090000 0.139026" />
+    <ImageTarget name="PikminARcard" size="0.090000 0.139026" />
+    <ImageTarget name="MetroidARcard" size="0.090000 0.139026" />
+    <ImageTarget name="marioArcard" size="0.090000 0.141429" />
+    <ImageTarget name="LinkARcard" size="0.090000 0.149935" />
+    <ImageTarget name="KirbyARcard" size="0.090000 0.139026" />
+    <ImageTarget name="prilu" size="0.140000 0.104033" />
+    <ImageTarget name="sheep" size="0.140000 0.098164" />
+  </Tracking>
+</QCARConfig>
